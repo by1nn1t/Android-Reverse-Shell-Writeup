@@ -1,4 +1,14 @@
 # Android-Reverse-Shell-Writeup
-In this document, I will demonstrate the process of creating a malware, using msfvenom to embed it within an Android application (.apk) file.
+Welcome to the Android Reverse Shell for Beginners project. This repository provides a comprehensive guide on creating a malware using msfvenom, embedding it within an Android application (.apk) file, and establishing an external WAN connection using Ngrok for delivery.
+Table of Contents
+
+   * Introduction
+   * Prerequisites
+   * Chapter I: Setting Up Dependencies
+   * Chapter II: Preparing and Distributing the Infected APK
+   * Chapter III: Embedding Malware
+   * Chapter IV: Using Meterpreter
+   * Disclaimer
+   * License
 
 ### On my project, the default copyright laws apply, meaning that I retain all rights to my source code (and other additional content) and no one may reproduce, distribute, or create derivative works from my work.
