@@ -12,4 +12,7 @@ Welcome to the Android Reverse Shell for Beginners project. This repository prov
    * Disclaimer
    * License
 
-### On my project, the default copyright laws apply, meaning that I retain all rights to my source code (and other additional content) and no one may reproduce, distribute, or create derivative works from my work.
+### Warning
+#### On my project, the default copyright laws apply, meaning that I retain all rights to my source code (and other additional content) and no one may reproduce, distribute, or create derivative works from my work.
+
+#### The use of this writup is complete responsibility of the end-user. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this writup.
